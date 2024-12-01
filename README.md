@@ -38,28 +38,51 @@ If you find our survey useful for your research, please cite the following paper
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-nrix" align="center" rowspan="2">Category</th>
-    <th class="tg-baqh" align="center" rowspan="2">model</th>
-    <th class="tg-0lax" align="center" rowspan="2">Release Time</th>
+    <th class="tg-nrix" align="center" rowspan="2">Categories</th>
+    <th class="tg-0lax" align="center" rowspan="2">Model</th>
+    <th class="tg-baqh" align="center" rowspan="2">Available</th>
+    <th class="tg-0lax" align="center" rowspan="2">Modal</th>
     <th class="tg-baqh" align="center" rowspan="2">Size(B)</th>
-    <th class="tg-0lax" align="center" rowspan="2">Link</th>
+    <th class="tg-0lax" align="center" rowspan="2">Base Model</th>
+    <th class="tg-baqh" align="center" rowspan="2">Release Time</th>
   </tr>
   <tr>
   </tr>
   </thead>
   <tbody>
   <tr>
-    <td class="tg-nrix" align="center" rowspan="27">Publicly <br>Accessbile</td>
-    <td class="tg-baqh" align="center">T5</td>
-    <td class="tg-0lax" align="center">2019/10</td>
-    <td class="tg-baqh" align="center">11</td>
-    <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/1910.10683">Paper</a></td>
+    <td class="tg-nrix" align="center" rowspan="27"> Small <br> Pre-trained Model</td>
+    <td class="tg-0lax" align="center" rowspan="2">GPT-1</td>
+    <td class="tg-baqh" align="center" rowspan="2">Open-source</td>
+    <td class="tg-0lax" align="center" rowspan="2">text</td>
+    <td class="tg-baqh" align="center" rowspan="2">-</td>
+    <td class="tg-0lax" align="center" rowspan="2">Transformer (decoder)</td>
+    <td class="tg-baqh" align="center" rowspan="2">Jun-2018</td>
   </tr>
     <tr>
-    <td class="tg-baqh" align="center">PanGU-Σ</td>
-    <td class="tg-0lax" align="center">2023/3</td>
-    <td class="tg-baqh" align="center">1085</td>
-    <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2303.10845">Paper</a></td>
+    <td class="tg-0lax" align="center" rowspan="2">BERT</td>
+    <td class="tg-baqh" align="center" rowspan="2">Open-source</td>
+    <td class="tg-0lax" align="center" rowspan="2">text</td>
+    <td class="tg-baqh" align="center" rowspan="2">330MB</td>
+    <td class="tg-0lax" align="center" rowspan="2">Transformer (Encoder)</td>
+    <td class="tg-baqh" align="center" rowspan="2">Oct-2018</td>
+  </tr>
+    <tr>
+    <td class="tg-nrix" align="center" rowspan="27"> Large <br> Pre-trained Model</td>
+    <td class="tg-0lax" align="center" rowspan="2">GPT-3</td>
+    <td class="tg-baqh" align="center" rowspan="2">Close-source</td>
+    <td class="tg-0lax" align="center" rowspan="2">text</td>
+    <td class="tg-baqh" align="center" rowspan="2">6B/175B</td>
+    <td class="tg-0lax" align="center" rowspan="2">GPT-2</td>
+    <td class="tg-baqh" align="center" rowspan="2">May-2020</td>
+  </tr>
+    <tr>
+    <td class="tg-0lax" align="center" rowspan="2">GPT-3.5</td>
+    <td class="tg-baqh" align="center" rowspan="2">Close-source</td>
+    <td class="tg-0lax" align="center" rowspan="2">text</td>
+    <td class="tg-baqh" align="center" rowspan="2">-</td>
+    <td class="tg-0lax" align="center" rowspan="2">GPT-3</td>
+    <td class="tg-baqh" align="center" rowspan="2">Mar-2022</td>
   </tr>
 </tbody>
 </table>
