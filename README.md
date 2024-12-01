@@ -20,12 +20,13 @@ If you find our survey useful for your research, please cite the following paper
 
 # Table of Contents
 
-- [LLMSurvey](#llmsurvey)
-  - [Chinese Version](#chinese-version)
-  - [🚀(New) The trends of the number of papers related to LLMs on arXiv](#new-the-trends-of-the-number-of-papers-related-to-llms-on-arxiv)
-  - [🚀(New) Technical Evolution of GPT-series Models](#new-technical-evolution-of-gpt-series-models)
+- [LLMSurvey](#Pre-trained-model-Security-Survey)
+  - [Table of Contents](#table-of-contents)
+  - [Related Sources](#related-sources)
+    - [Attack](#attack)
+    - [Defense](#defense)
 
-# Related Soures
+# Related Sources
 
 ## Attacks
 ### No-Change Attacks
