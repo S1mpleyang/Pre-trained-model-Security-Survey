@@ -66,6 +66,14 @@ If you find our survey useful for your research, please cite the following paper
     <td class="tg-0lax" align="center">Transformer (Encoder)</td>
     <td class="tg-baqh" align="center">Oct-2018</td>
   </tr>
+  <tr>
+    <td class="tg-0lax" align="center">CLIP</td>
+    <td class="tg-baqh" align="center">Open-source</td>
+    <td class="tg-0lax" align="center">multi</td>
+    <td class="tg-baqh" align="center">400MB</td>
+    <td class="tg-0lax" align="center">Resnet/Transformer (Encoder)</td>
+    <td class="tg-baqh" align="center">Jan-2021</td>
+  </tr>
   </tbody>
 </table>
 
@@ -100,6 +108,14 @@ If you find our survey useful for your research, please cite the following paper
     <td class="tg-baqh" align="center">-</td>
     <td class="tg-0lax" align="center">GPT-3</td>
     <td class="tg-baqh" align="center">Mar-2022</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" align="center">Flamingo</td>
+    <td class="tg-baqh" align="center">Close-source</td>
+    <td class="tg-0lax" align="center">multi</td>
+    <td class="tg-baqh" align="center">3B/9B/80B</td>
+    <td class="tg-0lax" align="center">CLIP+Transformer (decoder)</td>
+    <td class="tg-baqh" align="center">Apr-2022</td>
   </tr>
   </tbody>
 </table>
