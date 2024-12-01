@@ -39,7 +39,6 @@ If you find our survey useful for your research, please cite the following paper
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-nrix" align="center" rowspan="2">Categories</th>
     <th class="tg-0lax" align="center" rowspan="2">Model</th>
     <th class="tg-baqh" align="center" rowspan="2">Available</th>
     <th class="tg-0lax" align="center" rowspan="2">Modal</th>
@@ -52,7 +51,6 @@ If you find our survey useful for your research, please cite the following paper
   </thead>
   <tbody>
   <tr>
-    <td class="tg-nrix" align="center" rowspan="27"> Small <br> Pre-trained Model</td>
     <td class="tg-0lax" align="center">GPT-1</td>
     <td class="tg-baqh" align="center">Open-source</td>
     <td class="tg-0lax" align="center">text</td>
