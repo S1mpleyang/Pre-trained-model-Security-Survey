@@ -24,11 +24,17 @@ If you find our survey useful for your research, please cite the following paper
   - [Table of Contents](#table-of-contents)
   - [Related Sources](#related-sources)
     - [Attack](#attack)
+      - [No-Change Attacks](#No-Change-Attacks)
+      - [Input-Change Attacks](#Input-Change-Attacks)
+      - [Model-Change Attacks](#Model-Change-Attacks)
     - [Defense](#defense)
+      - [No-Change Defenses](#No-Change-Defenses)
+      - [Input-Change Defenses](#Input-Change-Defenses)
+      - [Model-Change Defenses](#Model-Change-Defenses)
 
 # Related Sources
 
-## Attacks
+## Attack
 ### No-Change Attacks
 
 ### Input-Change Attacks
