@@ -35,6 +35,37 @@ If you find our survey useful for your research, please cite the following paper
 
 # List of Pre-trained Models as Attack Target
 
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-nrix" align="center" rowspan="2">Category</th>
+    <th class="tg-baqh" align="center" rowspan="2">model</th>
+    <th class="tg-0lax" align="center" rowspan="2">Release Time</th>
+    <th class="tg-baqh" align="center" rowspan="2">Size(B)</th>
+    <th class="tg-0lax" align="center" rowspan="2">Link</th>
+  </tr>
+  <tr>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+    <td class="tg-nrix" align="center" rowspan="27">Publicly <br>Accessbile</td>
+    <td class="tg-baqh" align="center">T5</td>
+    <td class="tg-0lax" align="center">2019/10</td>
+    <td class="tg-baqh" align="center">11</td>
+    <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/1910.10683">Paper</a></td>
+  </tr>
+    <tr>
+    <td class="tg-baqh" align="center">PanGU-Σ</td>
+    <td class="tg-0lax" align="center">2023/3</td>
+    <td class="tg-baqh" align="center">1085</td>
+    <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2303.10845">Paper</a></td>
+  </tr>
+</tbody>
+</table>
+
+  
+
 # Related Sources
 
 ## Attack
