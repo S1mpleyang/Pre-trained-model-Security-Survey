@@ -71,7 +71,7 @@ If you find our survey useful for your research, please cite the following paper
     <td class="tg-baqh" align="center">Open-source</td>
     <td class="tg-0lax" align="center">multi</td>
     <td class="tg-baqh" align="center">400MB</td>
-    <td class="tg-0lax" align="center">Resnet/Transformer (Encoder)</td>
+    <td class="tg-0lax" align="center">Resnet / Transformer (Encoder)</td>
     <td class="tg-baqh" align="center">Jan-2021</td>
   </tr>
   </tbody>
