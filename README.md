@@ -20,3 +20,25 @@ If you find our survey useful for your research, please cite the following paper
 
 # Table of Contents
 
+
+
+# Related Soures
+
+## Attacks
+### No-Change Attacks
+
+### Input-Change Attacks
+
+### Model-Change Attacks
+
+1. <u>GShard</u>: **"GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding"**. *Dmitry Lepikhin et al.* ICLR 2021. [[Paper](http://arxiv.org/abs/2006.16668v1)]
+
+
+## Defense
+### No-Change Defenses
+
+### Input-Change Defenses
+
+### Model-Change Defenses
+
+
