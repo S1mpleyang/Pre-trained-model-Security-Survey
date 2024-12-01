@@ -68,7 +68,6 @@ If you find our survey useful for your research, please cite the following paper
     <td class="tg-baqh" align="center" rowspan="2">Oct-2018</td>
   </tr>
   <tr>
-    <td class="tg-nrix" align="center" rowspan="27"> Large <br> Pre-trained Model</td>
     <td class="tg-0lax" align="center" rowspan="2">GPT-3</td>
     <td class="tg-baqh" align="center" rowspan="2">Close-source</td>
     <td class="tg-0lax" align="center" rowspan="2">text</td>
