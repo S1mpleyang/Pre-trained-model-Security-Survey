@@ -123,7 +123,7 @@ If you find our survey useful for your research, please cite the following paper
 ## Related Sources
 
 ### Attack
-![Attack Taxonomy](https://github.com/S1mpleyang/Pre-trained-model-Security-Survey/images/attack.pdf)
+[Attack Taxonomy](images/attack.pdf)
 #### No-Change Attacks
 
 #### Input-Change Attacks
@@ -132,7 +132,7 @@ If you find our survey useful for your research, please cite the following paper
 
 
 ### Defense
-![Defense Taxonomy](https://github.com/S1mpleyang/Pre-trained-model-Security-Survey/images/defense.pdf)
+[Defense Taxonomy](defense.pdf)
 #### No-Change Defenses
 
 #### Input-Change Defenses
