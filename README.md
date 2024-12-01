@@ -18,7 +18,7 @@ If you find our survey useful for your research, please cite the following paper
 ```
 
 
-# Table of Contents
+## Table of Contents
 
 - [LLMSurvey](#Pre-trained-model-Security-Survey)
   - [Table of Contents](#table-of-contents)
@@ -33,7 +33,7 @@ If you find our survey useful for your research, please cite the following paper
       - [Input-Change Defenses](#Input-Change-Defenses)
       - [Model-Change Defenses](#Model-Change-Defenses)
 
-# List of Pre-trained Models as Attack Target
+## List of Pre-trained Models as Attack Target
 
 <table class="tg">
 <thead>
@@ -66,23 +66,23 @@ If you find our survey useful for your research, please cite the following paper
 
   
 
-# Related Sources
+## Related Sources
 
-## Attack
-### No-Change Attacks
+### Attack
+#### No-Change Attacks
 
-### Input-Change Attacks
+#### Input-Change Attacks
 
-### Model-Change Attacks
+#### Model-Change Attacks
 
 1. <u>GShard</u>: **"GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding"**. *Dmitry Lepikhin et al.* ICLR 2021. [[Paper](http://arxiv.org/abs/2006.16668v1)]
 
 
-## Defense
-### No-Change Defenses
+### Defense
+#### No-Change Defenses
 
-### Input-Change Defenses
+#### Input-Change Defenses
 
-### Model-Change Defenses
+#### Model-Change Defenses
 
 
