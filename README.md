@@ -60,7 +60,7 @@ If you find our survey useful for your research, please cite the following paper
     <td class="tg-baqh" align="center">Jun-2018</td>
   </tr>
   <tr>
-    <td class="tg-0lax" align="center>BERT</td>
+    <td class="tg-0lax" align="center">BERT</td>
     <td class="tg-baqh" align="center">Open-source</td>
     <td class="tg-0lax" align="center">text</td>
     <td class="tg-baqh" align="center">330MB</td>
