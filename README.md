@@ -35,6 +35,7 @@ If you find our survey useful for your research, please cite the following paper
 
 ## List of Pre-trained Models as Attack Target
 
+### small pre-trained models
 <table class="tg">
 <thead>
   <tr>
@@ -67,7 +68,27 @@ If you find our survey useful for your research, please cite the following paper
     <td class="tg-0lax" align="center">Transformer (Encoder)</td>
     <td class="tg-baqh" align="center">Oct-2018</td>
   </tr>
- <tr>
+  </tbody>
+</table>
+
+
+### large pre-trained models
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-nrix" align="center" rowspan="2">Categories</th>
+    <th class="tg-0lax" align="center" rowspan="2">Model</th>
+    <th class="tg-baqh" align="center" rowspan="2">Available</th>
+    <th class="tg-0lax" align="center" rowspan="2">Modal</th>
+    <th class="tg-baqh" align="center" rowspan="2">Size(B)</th>
+    <th class="tg-0lax" align="center" rowspan="2">Base Model</th>
+    <th class="tg-baqh" align="center" rowspan="2">Release Time</th>
+  </tr>
+  <tr>
+  </tr>
+  </thead>
+  <tbody>
+   <tr>
     <td class="tg-0lax" align="center">GPT-3</td>
     <td class="tg-baqh" align="center">Close-source</td>
     <td class="tg-0lax" align="center">text</td>
@@ -83,10 +104,8 @@ If you find our survey useful for your research, please cite the following paper
     <td class="tg-0lax" align="center">GPT-3</td>
     <td class="tg-baqh" align="center">Mar-2022</td>
   </tr>
-</tbody>
+  </tbody>
 </table>
-
-  
 
 ## Related Sources
 
@@ -96,8 +115,6 @@ If you find our survey useful for your research, please cite the following paper
 #### Input-Change Attacks
 
 #### Model-Change Attacks
-
-1. <u>GShard</u>: **"GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding"**. *Dmitry Lepikhin et al.* ICLR 2021. [[Paper](http://arxiv.org/abs/2006.16668v1)]
 
 
 ### Defense
