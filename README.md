@@ -123,7 +123,7 @@ If you find our survey useful for your research, please cite the following paper
 ## Related Sources
 
 ### Attack
-![Attack Taxonomy](./images/attack.png)
+![Attack Taxonomy](./images/attack.jpg)
 #### No-Change Attacks
 
 #### Input-Change Attacks
@@ -132,7 +132,7 @@ If you find our survey useful for your research, please cite the following paper
 
 
 ### Defense
-![Defense Taxonomy](./images/defense.png)
+![Defense Taxonomy](./images/defense.jpg)
 #### No-Change Defenses
 
 #### Input-Change Defenses
