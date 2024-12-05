@@ -132,7 +132,7 @@ If you find our survey useful for your research, please cite the following paper
 
 
 ### Defense
-![Defense Taxonomy](./defense.drawio.png)
+![Defense Taxonomy](./images/defense.drawio.png)
 #### No-Change Defenses
 
 #### Input-Change Defenses
