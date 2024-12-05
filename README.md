@@ -123,6 +123,9 @@ If you find our survey useful for your research, please cite the following paper
 ## Related Sources
 
 ### Attack
+The target model comprises two critical components: (1) the input message and (2) the model structure along with its parameters. 
+Attacks can lead to changes in either or both components of the target model. Hence, this article categorizes the impacts on these model components by analyzing the changes observed before and after an attack.
+
 ![Attack Taxonomy](./images/attack.jpg)
 #### No-Change Attacks
 
